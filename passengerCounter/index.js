@@ -1,9 +1,8 @@
-
-let count_el = document.getElementById('count'); //pointing to the address of the element that has id of "count"
+//pointing to the address of the element that has id of "count"
+//acting as a pointer
+let count_el = document.getElementById('count'); 
 let prev = document.getElementById('entries');
 let count = 0;
-
-
 
 
 function increment(){
