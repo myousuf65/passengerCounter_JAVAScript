@@ -1,0 +1,25 @@
+#body{
+    background-color: burlywood;
+}
+div{
+    margin: 100px;
+    margin-top: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    font-size: medium;
+    font-weight: bold;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+#increment_btn{
+    background-color: darkred;
+    color: aliceblue;
+}
+#save-btn{
+    background-color: green;
+    color: aliceblue;
+}
